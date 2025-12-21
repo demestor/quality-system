@@ -1,0 +1,74 @@
+﻿@* Views/Frame/Index.cshtml *@
+
+@model IEnumerable<QualityControlSystem.Models.Frame>
+
+@{
+    ViewData["Title"] = "Frames";
+}
+
+<h1>Frames</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProdBatchId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SerialNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FrameModel)
+            </th>
+            <th>
+                System Mark
+            </th>
+            <th>
+                Expert Mark
+            </th>
+            <th>
+                Final Mark
+            </th>
+            <th>
+                Visual Params (JSON)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @(item.Batch?.StartDate.ToString() ?? "—")
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SerialNumber)
+                </td>
+                <td>
+                    @(item.FrameModel?.FrameName ?? "—")
+                </td>
+                <td>
+                    @(item.SystemMark?.FinalMarkName ?? "—")
+                </td>
+                <td>
+                    @(item.ExpertMark?.FinalMarkName ?? "—")
+                </td>
+                <td>
+                    @(item.FinalMark?.FinalMarkName ?? "—")
+                </td>
+                <td>
+                    @(item.VisualAnalysParams?.RootElement.GetRawText() ?? "{}")
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.FrameId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.FrameId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.FrameId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

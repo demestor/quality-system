@@ -1,0 +1,62 @@
+﻿@* Views/Frame/Details.cshtml *@
+
+@model QualityControlSystem.Models.Frame
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Frame</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProdBatchId)
+        </dt>
+        <dd class = "col-sm-10">
+            @(Model.Batch?.StartDate.ToString() ?? "—")
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SerialNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SerialNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FrameModel)
+        </dt>
+        <dd class = "col-sm-10">
+            @(Model.FrameModel?.FrameName ?? "—")
+        </dd>
+        <dt class = "col-sm-2">
+            System Mark
+        </dt>
+        <dd class = "col-sm-10">
+            @(Model.SystemMark?.FinalMarkName ?? "—")
+        </dd>
+        <dt class = "col-sm-2">
+            Expert Mark
+        </dt>
+        <dd class = "col-sm-10">
+            @(Model.ExpertMark?.FinalMarkName ?? "—")
+        </dd>
+        <dt class = "col-sm-2">
+            Final Mark
+        </dt>
+        <dd class = "col-sm-10">
+            @(Model.FinalMark?.FinalMarkName ?? "—")
+        </dd>
+        <dt class = "col-sm-2">
+            Visual Params (JSON)
+        </dt>
+        <dd class = "col-sm-10">
+            @ViewBag.VisualJson
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.FrameId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,69 @@
+﻿@* Views/Frame/Edit.cshtml *@
+@* Аналогично Create, но с asp-action="Edit" и заполненными значениями. ViewBag.VisualJson используется для textarea. *@
+
+@model QualityControlSystem.Models.Frame
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Frame</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="FrameId" />
+            <div class="form-group">
+                <label asp-for="ProdBatchId" class="control-label"></label>
+                <select asp-for="ProdBatchId" class ="form-control" asp-items="ViewBag.ProdBatchId"></select>
+                <span asp-validation-for="ProdBatchId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SerialNumber" class="control-label"></label>
+                <input asp-for="SerialNumber" class="form-control" />
+                <span asp-validation-for="SerialNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FrameModelId" class="control-label"></label>
+                <select asp-for="FrameModelId" class ="form-control" asp-items="ViewBag.FrameModelId"></select>
+                <span asp-validation-for="FrameModelId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SystemMarkId" class="control-label">System Mark</label>
+                <select asp-for="SystemMarkId" class ="form-control" asp-items="ViewBag.SystemMarkId"></select>
+                <span asp-validation-for="SystemMarkId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ExpertMarkId" class="control-label">Expert Mark</label>
+                <select asp-for="ExpertMarkId" class ="form-control" asp-items="ViewBag.ExpertMarkId"></select>
+                <span asp-validation-for="ExpertMarkId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FinalMarkId" class="control-label">Final Mark</label>
+                <select asp-for="FinalMarkId" class ="form-control" asp-items="ViewBag.FinalMarkId"></select>
+                <span asp-validation-for="FinalMarkId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Параметры визуального анализа (JSON)</label>
+                <textarea asp-for="VisualJson" class="form-control" rows="10"></textarea>
+                <span asp-validation-for="VisualJson" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

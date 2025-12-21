@@ -1,0 +1,41 @@
+﻿@model IEnumerable<QualityControlSystem.Models.ProductionBatch>
+
+@{
+    ViewData["Title"] = "Партии производства";
+}
+
+<h1>Партии производства</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Создать новую партию</a>
+</p>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Номер партии</th>
+            <th>Дата начала</th>
+            <th>Дата окончания</th>
+            <th>Статус</th>
+            <th>Рекомендации эксперта</th>
+            <th>Действия</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.ProductionBatchId)</td>
+                    <td>@Html.DisplayFor(modelItem => item.StartDate)</td>
+                    <td>@Html.DisplayFor(modelItem => item.EndDate)</td>
+                    <td>@(item.BatchStatus?.StatusName ?? "—")</td>
+                    <td>@Html.DisplayFor(modelItem => item.Recom)</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.ProductionBatchId" class="btn btn-sm btn-info">Детали</a>
+                        <a asp-action="Edit" asp-route-id="@item.ProductionBatchId" class="btn btn-sm btn-warning">Редактировать</a>
+                        <a asp-action="Delete" asp-route-id="@item.ProductionBatchId" class="btn btn-sm btn-danger">Удалить</a>
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>

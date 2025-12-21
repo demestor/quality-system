@@ -1,0 +1,32 @@
+﻿@model QualityControlSystem.Models.ProductionBatch
+
+@{
+    ViewData["Title"] = "Удалить партию";
+}
+
+<h1>Удалить партию #@Model.ProductionBatchId</h1>
+
+<h3>Вы уверены, что хотите удалить эту партию?</h3>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">Дата начала</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.StartDate)</dd>
+
+        <dt class="col-sm-3">Дата окончания</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.EndDate)</dd>
+
+        <dt class="col-sm-3">Статус</dt>
+        <dd class="col-sm-9">@(Model.BatchStatus?.StatusName ?? "—")</dd>
+
+        <dt class="col-sm-3">Рекомендации</dt>
+        <dd class="col-sm-9">@Html.DisplayFor(model => model.Recom)</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ProductionBatchId" />
+        <input type="submit" value="Удалить" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary ms-2">Отмена</a>
+    </form>
+</div>
