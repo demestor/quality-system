@@ -113,3 +113,4 @@ D:\Файлы_и_доки\Учеба_доки_доксы\УЧЕБА\Инжере
 D:\Файлы_и_доки\Учеба_доки_доксы\УЧЕБА\Инжерения_программного_обеспечения\КУРСАЧ\quality_system\QualityControlSystem\QualityControlSystem\obj\Debug\net8.0\QualityControlSystem.genruntimeconfig.cache
 D:\Файлы_и_доки\Учеба_доки_доксы\УЧЕБА\Инжерения_программного_обеспечения\КУРСАЧ\quality_system\QualityControlSystem\QualityControlSystem\obj\Debug\net8.0\ref\QualityControlSystem.dll
 D:\Файлы_и_доки\Учеба_доки_доксы\УЧЕБА\Инжерения_программного_обеспечения\КУРСАЧ\quality_system\QualityControlSystem\QualityControlSystem\bin\Debug\net8.0\EFCore.NamingConventions.dll
+D:\Файлы_и_доки\Учеба_доки_доксы\УЧЕБА\Инжерения_программного_обеспечения\КУРСАЧ\quality_system\QualityControlSystem\QualityControlSystem\obj\Debug\net8.0\QualityControlSystem.sourcelink.json

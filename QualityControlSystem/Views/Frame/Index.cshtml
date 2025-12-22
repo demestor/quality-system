@@ -3,72 +3,96 @@
 @model IEnumerable<QualityControlSystem.Models.Frame>
 
 @{
-    ViewData["Title"] = "Frames";
+    ViewData["Title"] = "Каркасы";
 }
 
-<h1>Frames</h1>
+<h1>Каркасы</h1>
+
+@if (TempData["Success"] != null)
+{
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Success"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+}
+@if (TempData["Info"] != null)
+{
+        <div class="alert alert-info alert-dismissible fade show" role="alert">
+        @TempData["Info"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+}
+@if (TempData["Alert"] != null)
+{
+        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        @TempData["Alert"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+}
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create" class="btn btn-primary">Создать новый каркас</a>
 </p>
-<table class="table">
-    <thead>
+
+<table class="table table-hover">
+    <thead class="table-light">
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.ProdBatchId)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.SerialNumber)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.FrameModel)
-            </th>
-            <th>
-                System Mark
-            </th>
-            <th>
-                Expert Mark
-            </th>
-            <th>
-                Final Mark
-            </th>
-            <th>
-                Visual Params (JSON)
-            </th>
-            <th></th>
+            <th>Партия</th>
+            <th>Серийный номер</th>
+            <th>Модель</th>
+            <th>Системная оценка</th>
+            <th>Оценка эксперта</th>
+            <th>Финальная оценка</th>
+            <th>Датчики</th>
+            <th>Действия</th>
         </tr>
     </thead>
     <tbody>
         @foreach (var item in Model)
         {
-            <tr>
-                <td>
-                    @(item.Batch?.StartDate.ToString() ?? "—")
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.SerialNumber)
-                </td>
-                <td>
-                    @(item.FrameModel?.FrameName ?? "—")
-                </td>
-                <td>
-                    @(item.SystemMark?.FinalMarkName ?? "—")
-                </td>
-                <td>
-                    @(item.ExpertMark?.FinalMarkName ?? "—")
-                </td>
-                <td>
-                    @(item.FinalMark?.FinalMarkName ?? "—")
-                </td>
-                <td>
-                    @(item.VisualAnalysParams?.RootElement.GetRawText() ?? "{}")
-                </td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.FrameId">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.FrameId">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.FrameId">Delete</a>
-                </td>
-            </tr>
+                <tr>
+                    <td>
+                    @(item.Batch != null ? $"№{item.Batch.ProductionBatchId}" : "—")
+                    </td>
+                    <td>@Html.DisplayFor(modelItem => item.SerialNumber)</td>
+                    <td>@(item.FrameModel?.FrameName ?? "—")</td>
+                    <td>@(item.SystemMark?.FinalMarkName ?? "—")</td>
+                    <td>@(item.ExpertMark?.FinalMarkName ?? "—")</td>
+                    <td>@(item.FinalMark?.FinalMarkName ?? "—")</td>
+                    <td>
+                    @if (item.ProdProcessedSensors?.Any() == true)
+                    {
+                                <span class="badge bg-success">Обработано (@item.ProdProcessedSensors.Count)</span>
+                    }
+                    else
+                    {
+                                <span class="badge bg-secondary">Не обработано</span>
+                    }
+                    </td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a asp-action="Details" asp-route-id="@item.FrameId" class="btn btn-sm btn-outline-primary">Детали</a>
+                            <a asp-action="Edit" asp-route-id="@item.FrameId" class="btn btn-sm btn-outline-warning">Редактировать</a>
+
+                        @if (item.ProdProcessedSensors?.Any() != true)
+                        {
+                                    <form asp-action="ProcessSensors" asp-route-frameId="@item.FrameId" method="post" class="d-inline">
+                                @Html.AntiForgeryToken()
+                                        <button type="submit" class="btn btn-sm btn-danger"
+                                                onclick="return confirm('Обработать данные датчиков для каркаса #@item.FrameId?\nЭто действие нельзя отменить.')">
+                                            Обработать датчики
+                                        </button>
+                                    </form>
+                        }
+                        else
+                        {
+                                    <button class="btn btn-sm btn-secondary" disabled>Обработано</button>
+                        }
+
+                            <a asp-action="Delete" asp-route-id="@item.FrameId" class="btn btn-sm btn-outline-danger">Удалить</a>
+                        </div>
+                    </td>
+                </tr>
         }
     </tbody>
 </table>

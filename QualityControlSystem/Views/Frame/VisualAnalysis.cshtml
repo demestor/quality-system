@@ -1,0 +1,39 @@
+﻿@model QualityControlSystem.Models.Frame
+
+<form asp-action="SaveVisualAnalysis" method="post">
+    <input type="hidden" name="FrameId" value="@Model.FrameId" />
+
+    <h4>Визуальная оценка каркаса</h4>
+
+    <div class="mb-3">
+        <label>Эксперт</label>
+        <input name="ExpertName" class="form-control" required />
+    </div>
+
+    @foreach (var param in new[] { "Геометрия", "Сварные швы", "Поверхность" })
+    {
+            <div class="card mb-2 p-2">
+                <strong>@param</strong>
+
+                <select name="Status_@param" class="form-select">
+                    <option value="OK">Без дефектов</option>
+                    <option value="DEFECT">Есть дефект</option>
+                </select>
+
+                <textarea name="Comment_@param"
+                          class="form-control mt-1"
+                          placeholder="Комментарий"></textarea>
+            </div>
+    }
+
+    <div class="mb-3">
+        <label>Решение эксперта</label>
+        <select name="ExpertResult" class="form-select">
+            <option value="OK">Годен</option>
+            <option value="REWORK">На доработку</option>
+            <option value="REJECT">Брак</option>
+        </select>
+    </div>
+
+    <button class="btn btn-primary">Сохранить</button>
+</form>

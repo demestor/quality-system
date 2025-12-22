@@ -1,69 +1,160 @@
 ﻿@* Views/Frame/Edit.cshtml *@
-@* Аналогично Create, но с asp-action="Edit" и заполненными значениями. ViewBag.VisualJson используется для textarea. *@
 
 @model QualityControlSystem.Models.Frame
+@using System.Text.Json
 
 @{
-    ViewData["Title"] = "Edit";
+    ViewData["Title"] = "Редактирование каркаса";
+
+    // === Безопасный парсинг визуальной оценки (как в прошлый раз) ===
+    var expertName = "";
+    var expertResult = "";
+    var checksDict = new Dictionary<string, (string status, string comment)>();
+
+    if (Model.VisualAnalysParams != null)
+    {
+        var root = Model.VisualAnalysParams.RootElement;
+
+        // Эксперт
+        if (root.TryGetProperty("expert", out var expertProp) &&
+            expertProp.ValueKind == JsonValueKind.Object &&
+            expertProp.TryGetProperty("name", out var nameProp) &&
+            nameProp.ValueKind == JsonValueKind.String)
+        {
+            expertName = nameProp.GetString() ?? "";
+        }
+
+        // Решение эксперта
+        if (root.TryGetProperty("expert_result", out var resultProp) &&
+            resultProp.ValueKind == JsonValueKind.String)
+        {
+            expertResult = resultProp.GetString() ?? "";
+        }
+
+        // Визуальные проверки
+        if (root.TryGetProperty("visual_checks", out var checksProp) &&
+            checksProp.ValueKind == JsonValueKind.Array)
+        {
+            foreach (var item in checksProp.EnumerateArray())
+            {
+                if (item.ValueKind != JsonValueKind.Object) continue;
+
+                string param = "";
+                string status = "OK";
+                string comment = "";
+
+                if (item.TryGetProperty("param", out var p) && p.ValueKind == JsonValueKind.String)
+                    param = p.GetString() ?? "";
+
+                if (item.TryGetProperty("status", out var s) && s.ValueKind == JsonValueKind.String)
+                    status = s.GetString() ?? "OK";
+
+                if (item.TryGetProperty("comment", out var c) && c.ValueKind == JsonValueKind.String)
+                    comment = c.GetString() ?? "";
+
+                if (!string.IsNullOrEmpty(param))
+                {
+                    checksDict[param] = (status, comment);
+                }
+            }
+        }
+    }
+
+    var paramsList = new[] { "Геометрия", "Сварные швы", "Поверхность" };
 }
 
-<h1>Edit</h1>
+<h1>Редактирование каркаса #@Model.FrameId</h1>
 
-<h4>Frame</h4>
 <hr />
 <div class="row">
-    <div class="col-md-4">
-        <form asp-action="Edit">
+    <div class="col-md-8">
+        <form asp-action="Edit" method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="FrameId" />
-            <div class="form-group">
-                <label asp-for="ProdBatchId" class="control-label"></label>
-                <select asp-for="ProdBatchId" class ="form-control" asp-items="ViewBag.ProdBatchId"></select>
-                <span asp-validation-for="ProdBatchId" class="text-danger"></span>
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group mb-3">
+                        <label asp-for="ProdBatchId" class="control-label">Партия производства</label>
+                        <select asp-for="ProdBatchId" class="form-control" asp-items="ViewBag.ProdBatchId"></select>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="SerialNumber" class="control-label">Серийный номер</label>
+                        <input asp-for="SerialNumber" class="form-control" />
+                        <span asp-validation-for="SerialNumber" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="FrameModelId" class="control-label">Модель каркаса</label>
+                        <select asp-for="FrameModelId" class="form-control" asp-items="ViewBag.FrameModelId"></select>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="SystemMarkId" class="control-label">Системная оценка</label>
+                        <select asp-for="SystemMarkId" class="form-control" asp-items="ViewBag.SystemMarkId"></select>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <!-- Финальная оценка — только здесь, при редактировании -->
+                    <div class="form-group mb-3">
+                        <label asp-for="FinalMarkId" class="control-label font-weight-bold text-primary">
+                            Финальная оценка
+                        </label>
+                        <select asp-for="FinalMarkId" class="form-control">
+                            <option value="">— Не установлена —</option>
+                            <option value="1">Годен</option>
+                            <option value="2">На доработку</option>
+                            <option value="3">Брак</option>
+                        </select>
+                        <small class="form-text text-muted">Устанавливается после визуальной оценки экспертом</small>
+                    </div>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="SerialNumber" class="control-label"></label>
-                <input asp-for="SerialNumber" class="form-control" />
-                <span asp-validation-for="SerialNumber" class="text-danger"></span>
+
+            <!-- Блок визуальной оценки эксперта -->
+            <h4 class="mt-5">Визуальная оценка каркаса</h4>
+            <div class="card p-4 bg-light">
+                <div class="mb-3">
+                    <label class="control-label">Имя эксперта</label>
+                    <input name="ExpertName" class="form-control" required value="@expertName" />
+                </div>
+
+                @foreach (var param in paramsList)
+                {
+                    var currentStatus = checksDict.TryGetValue(param, out var value) ? value.status : "OK";
+                    var currentComment = checksDict.TryGetValue(param, out value) ? value.comment : "";
+
+                        <div class="card mb-3 p-3 border">
+                            <strong>@param</strong>
+
+                            <select name="Status_@param" class="form-select mt-2">
+                                <option value="OK" selected="@(currentStatus == "OK")">Без дефектов</option>
+                                <option value="DEFECT" selected="@(currentStatus == "DEFECT")">Есть дефект</option>
+                            </select>
+
+                            <textarea name="Comment_@param"
+                                      class="form-control mt-2"
+                                      rows="3"
+                                      placeholder="Комментарий">@currentComment</textarea>
+                        </div>
+                }
+
+                <div class="mb-3">
+                    <label class="control-label">Решение эксперта</label>
+                    <select name="ExpertResult" class="form-select">
+                        <option value="OK" selected="@(expertResult == "OK")">Годен</option>
+                        <option value="REWORK" selected="@(expertResult == "REWORK")">На доработку</option>
+                        <option value="REJECT" selected="@(expertResult == "REJECT")">Брак</option>
+                    </select>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="FrameModelId" class="control-label"></label>
-                <select asp-for="FrameModelId" class ="form-control" asp-items="ViewBag.FrameModelId"></select>
-                <span asp-validation-for="FrameModelId" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="SystemMarkId" class="control-label">System Mark</label>
-                <select asp-for="SystemMarkId" class ="form-control" asp-items="ViewBag.SystemMarkId"></select>
-                <span asp-validation-for="SystemMarkId" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="ExpertMarkId" class="control-label">Expert Mark</label>
-                <select asp-for="ExpertMarkId" class ="form-control" asp-items="ViewBag.ExpertMarkId"></select>
-                <span asp-validation-for="ExpertMarkId" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="FinalMarkId" class="control-label">Final Mark</label>
-                <select asp-for="FinalMarkId" class ="form-control" asp-items="ViewBag.FinalMarkId"></select>
-                <span asp-validation-for="FinalMarkId" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label class="control-label">Параметры визуального анализа (JSON)</label>
-                <textarea asp-for="VisualJson" class="form-control" rows="10"></textarea>
-                <span asp-validation-for="VisualJson" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+
+            <div class="form-group mt-4">
+                <input type="submit" value="Сохранить изменения" class="btn btn-success btn-lg" />
+                <a asp-action="Details" asp-route-id="@Model.FrameId" class="btn btn-secondary ms-2">Отмена</a>
             </div>
         </form>
     </div>
 </div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
-@section Scripts {
-    @{
-        await Html.RenderPartialAsync("_ValidationScriptsPartial");
-    }
-}
