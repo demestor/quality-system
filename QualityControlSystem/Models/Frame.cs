@@ -14,7 +14,6 @@ namespace QualityControlSystem.Models
         public int? ExpertMarkId { get; set; }
         public int? FinalMarkId { get; set; }
 
-        // Навигационные свойства (существующие + новые)
         public ProductionBatch? Batch { get; set; }
         public FrameModel? FrameModel { get; set; }
         public FinalMarkType? SystemMark { get; set; }

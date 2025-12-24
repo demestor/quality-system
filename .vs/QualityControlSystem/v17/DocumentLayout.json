@@ -3,52 +3,60 @@
   "WorkspaceRootPath": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\productionbatch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\productionbatch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\productionbatch\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\productionbatch\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\productionbatch\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\productionbatch\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\productionbatch\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\productionbatch\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\productionbatch\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\productionbatch\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\controllers\\framecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\controllers\\framecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\frame\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\frame\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\prodprocessedsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\prodprocessedsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\frame\\visualanalysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\frame\\visualanalysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\frame\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\frame\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\notificationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\notificationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\frame\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\frame\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\frame\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\frame\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\frame\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,56 +67,68 @@
       "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\frame\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\frame\\visualanalysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\frame\\visualanalysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\controllers\\productionbatchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\controllers\\productionbatchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\finalmarktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\finalmarktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\framemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\framemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\productionbatch\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\productionbatch\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\productionbatch\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\productionbatch\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\productionbatch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\productionbatch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\productionbatch\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\productionbatch\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\productionbatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\productionbatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\prodprocessedsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\prodprocessedsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\notificationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\notificationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\notificationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\framemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\framemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\frame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\finalmarktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\finalmarktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\models\\batchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\models\\batchstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\views\\productionbatch\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\views\\productionbatch\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\controllers\\productionbatchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\controllers\\productionbatchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\controllers\\framecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\controllers\\framecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|d:\\\u0444\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0443\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0443\u0447\u0435\u0431\u0430\\\u0438\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u043A\u0443\u0440\u0441\u0430\u0447\\quality_system\\qualitycontrolsystem\\qualitycontrolsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BACFA7B-6773-47DC-A393-53F85D88CC79}|QualityControlSystem\\QualityControlSystem.csproj|solutionrelative:qualitycontrolsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,84 +138,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "QualityControlSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T10:39:38.479Z",
+              "WhenOpened": "2025-12-24T06:14:08.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NotificationType.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\NotificationType.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\NotificationType.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\NotificationType.cs",
-              "RelativeToolTip": "QualityControlSystem\\Models\\NotificationType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:16:50.12Z"
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T06:14:07.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Notification.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\Notification.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Notification.cs",
-              "RelativeToolTip": "QualityControlSystem\\Models\\Notification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:15:42.016Z"
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-24T06:13:47.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NotificationRule.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\NotificationRule.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\NotificationRule.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\NotificationRule.cs",
-              "RelativeToolTip": "QualityControlSystem\\Models\\NotificationRule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:15:11.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProdProcessedSensor.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\ProdProcessedSensor.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\ProdProcessedSensor.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\ProdProcessedSensor.cs",
-              "RelativeToolTip": "QualityControlSystem\\Models\\ProdProcessedSensor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:14:43.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Sensor.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Sensor.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\Sensor.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Sensor.cs",
-              "RelativeToolTip": "QualityControlSystem\\Models\\Sensor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:14:24.155Z"
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Create.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\Create.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Create.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T21:26:47.586Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Delete.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\Delete.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Delete.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T21:27:36.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Details.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\Details.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Details.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\Details.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T21:26:27.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\Edit.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Edit.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\Edit.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T21:27:12.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Index.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\Index.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Index.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAD0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T21:26:12.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "VisualAnalysis.cshtml",
               "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\VisualAnalysis.cshtml",
               "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\VisualAnalysis.cshtml",
@@ -203,49 +254,12 @@
               "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\VisualAnalysis.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T00:27:20.221Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Details.cshtml",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\Details.cshtml",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Details.cshtml",
-              "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T21:26:27.992Z",
+              "WhenOpened": "2025-12-22T00:27:20.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Index.cshtml",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\Index.cshtml",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Index.cshtml",
-              "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T21:26:12.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrameController.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Controllers\\FrameController.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Controllers\\FrameController.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Controllers\\FrameController.cs",
-              "RelativeToolTip": "QualityControlSystem\\Controllers\\FrameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4BAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T21:25:22.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Create.cshtml",
               "RelativeDocumentMoniker": "QualityControlSystem\\Views\\ProductionBatch\\Create.cshtml",
@@ -253,179 +267,12 @@
               "RelativeToolTip": "QualityControlSystem\\Views\\ProductionBatch\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T19:59:47.912Z"
+              "WhenOpened": "2025-12-21T19:59:47.912Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Edit.cshtml",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\ProductionBatch\\Edit.cshtml",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Edit.cshtml",
-              "RelativeToolTip": "QualityControlSystem\\Views\\ProductionBatch\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T20:00:12.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FrameModel.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\FrameModel.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\FrameModel.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\FrameModel.cs",
-              "RelativeToolTip": "QualityControlSystem\\Models\\FrameModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:59:58.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Program.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Program.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Program.cs",
-              "RelativeToolTip": "QualityControlSystem\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:45:14.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Delete.cshtml",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\Delete.cshtml",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Delete.cshtml",
-              "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\Delete.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T21:27:36.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductionBatchController.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Controllers\\ProductionBatchController.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Controllers\\ProductionBatchController.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Controllers\\ProductionBatchController.cs",
-              "RelativeToolTip": "QualityControlSystem\\Controllers\\ProductionBatchController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAIwJEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:55:39.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Create.cshtml",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\Create.cshtml",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Create.cshtml",
-              "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T21:26:47.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Edit.cshtml",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Frame\\Edit.cshtml",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Frame\\Edit.cshtml",
-              "RelativeToolTip": "QualityControlSystem\\Views\\Frame\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T21:27:12.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Index.cshtml",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\ProductionBatch\\Index.cshtml",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Index.cshtml",
-              "RelativeToolTip": "QualityControlSystem\\Views\\ProductionBatch\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAlwBgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T19:58:45.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Details.cshtml",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\ProductionBatch\\Details.cshtml",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Details.cshtml",
-              "RelativeToolTip": "QualityControlSystem\\Views\\ProductionBatch\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T19:59:29.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ProductionBatch.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\ProductionBatch.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\ProductionBatch.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\ProductionBatch.cs",
-              "RelativeToolTip": "QualityControlSystem\\Models\\ProductionBatch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:00:28.509Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "QualityControlSystem\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:44:40.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Frame.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Frame.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\Frame.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Frame.cs",
-              "RelativeToolTip": "QualityControlSystem\\Models\\Frame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T19:00:51.888Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "QualityControlSystem\\appsettings.json",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\appsettings.json",
-              "RelativeToolTip": "QualityControlSystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-21T18:41:46.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BatchStatus.cs",
-              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\BatchStatus.cs",
-              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\BatchStatus.cs",
-              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\BatchStatus.cs",
-              "RelativeToolTip": "QualityControlSystem\\Models\\BatchStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:58:45.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Delete.cshtml",
               "RelativeDocumentMoniker": "QualityControlSystem\\Views\\ProductionBatch\\Delete.cshtml",
@@ -433,19 +280,281 @@
               "RelativeToolTip": "QualityControlSystem\\Views\\ProductionBatch\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-21T20:00:43.144Z"
+              "WhenOpened": "2025-12-21T20:00:43.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Program.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Program.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Program.cs",
+              "RelativeToolTip": "QualityControlSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:45:14.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Sensor.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\Sensor.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Sensor.cs",
+              "RelativeToolTip": "QualityControlSystem\\Models\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:14:24.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Details.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\ProductionBatch\\Details.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Details.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\ProductionBatch\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T19:59:29.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Edit.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\ProductionBatch\\Edit.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Edit.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\ProductionBatch\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T20:00:12.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Index.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\ProductionBatch\\Index.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\ProductionBatch\\Index.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\ProductionBatch\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-21T19:58:45.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "ProductionBatch.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\ProductionBatch.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\ProductionBatch.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\ProductionBatch.cs",
+              "RelativeToolTip": "QualityControlSystem\\Models\\ProductionBatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:00:28.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProdProcessedSensor.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\ProdProcessedSensor.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\ProdProcessedSensor.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\ProdProcessedSensor.cs",
+              "RelativeToolTip": "QualityControlSystem\\Models\\ProdProcessedSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:14:43.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificationType.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\NotificationType.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\NotificationType.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\NotificationType.cs",
+              "RelativeToolTip": "QualityControlSystem\\Models\\NotificationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:16:50.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QualityControlSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-23T10:39:38.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotificationRule.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\NotificationRule.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\NotificationRule.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\NotificationRule.cs",
+              "RelativeToolTip": "QualityControlSystem\\Models\\NotificationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:15:11.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\Notification.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Notification.cs",
+              "RelativeToolTip": "QualityControlSystem\\Models\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T17:15:42.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrameModel.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\FrameModel.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\FrameModel.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\FrameModel.cs",
+              "RelativeToolTip": "QualityControlSystem\\Models\\FrameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:59:58.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Frame.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Frame.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\Frame.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\Frame.cs",
+              "RelativeToolTip": "QualityControlSystem\\Models\\Frame.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:00:51.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "FinalMarkType.cs",
               "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\FinalMarkType.cs",
               "RelativeDocumentMoniker": "QualityControlSystem\\Models\\FinalMarkType.cs",
               "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\FinalMarkType.cs",
               "RelativeToolTip": "QualityControlSystem\\Models\\FinalMarkType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T18:59:31.681Z"
+              "WhenOpened": "2025-12-21T18:59:31.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "QualityControlSystem\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:12:35.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "QualityControlSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:44:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductionBatchController.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Controllers\\ProductionBatchController.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Controllers\\ProductionBatchController.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Controllers\\ProductionBatchController.cs",
+              "RelativeToolTip": "QualityControlSystem\\Controllers\\ProductionBatchController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAwFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:55:39.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QualityControlSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T04:08:54.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrameController.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Controllers\\FrameController.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Controllers\\FrameController.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Controllers\\FrameController.cs",
+              "RelativeToolTip": "QualityControlSystem\\Controllers\\FrameController.cs",
+              "ViewState": "AgIAABoCAAAAAAAAAAAUwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T21:25:22.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BatchStatus.cs",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\BatchStatus.cs",
+              "RelativeDocumentMoniker": "QualityControlSystem\\Models\\BatchStatus.cs",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\Models\\BatchStatus.cs",
+              "RelativeToolTip": "QualityControlSystem\\Models\\BatchStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T18:58:45.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "QualityControlSystem\\appsettings.json",
+              "ToolTip": "D:\\\u0424\u0430\u0439\u043B\u044B_\u0438_\u0434\u043E\u043A\u0438\\\u0423\u0447\u0435\u0431\u0430_\u0434\u043E\u043A\u0438_\u0434\u043E\u043A\u0441\u044B\\\u0423\u0427\u0415\u0411\u0410\\\u0418\u043D\u0436\u0435\u0440\u0435\u043D\u0438\u044F_\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E_\u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\\u041A\u0423\u0420\u0421\u0410\u0427\\quality_system\\QualityControlSystem\\QualityControlSystem\\appsettings.json",
+              "RelativeToolTip": "QualityControlSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T18:41:46.204Z",
+              "EditorCaption": ""
             }
           ]
         }

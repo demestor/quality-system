@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using QualityControlSystem.Data;
 using QualityControlSystem.Models;
+using ClosedXML.Excel;
+using System.IO;
 
 namespace QualityControlSystem.Controllers
 {
@@ -32,8 +34,12 @@ namespace QualityControlSystem.Controllers
                 .Include(f => f.SystemMark)
                 .Include(f => f.ExpertMark)
                 .Include(f => f.FinalMark)
-                .Include(f => f.ProdProcessedSensors)
                 .ToListAsync();
+
+            if (Request.Headers.Accept.Contains("application/json"))
+            {
+                return Json(frames);
+            }
 
             return View(frames);
         }
@@ -57,14 +63,13 @@ namespace QualityControlSystem.Controllers
                         .ThenInclude(p => p.Sensor)
                 .Include(f => f.Notifications)
                     .ThenInclude(n => n.NotificationRule)
-                .Include(f => f.ProdProcessedSensors)  // ← НОВОЕ: подгружаем обработанные датчики
-                    .ThenInclude(p => p.Sensor)        // ← и название сенсора
+                .Include(f => f.ProdProcessedSensors)
+                    .ThenInclude(p => p.Sensor)
                 .FirstOrDefaultAsync(m => m.FrameId == id);
 
             if (frame == null)
                 return NotFound();
 
-            // JSON для визуальной оценки (оставляем как было)
             if (frame.VisualAnalysParams != null)
             {
                 ViewBag.VisualJson = JsonSerializer.Serialize(
@@ -314,7 +319,7 @@ namespace QualityControlSystem.Controllers
         }
 
         // =====================================================
-        // ОБРАБОТКА ДАТЧИКОВ (ИСПРАВЛЕНО)
+        // ОБРАБОТКА ДАТЧИКОВ
         // =====================================================
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -340,7 +345,6 @@ namespace QualityControlSystem.Controllers
                 return RedirectToAction(nameof(Index));
             }
 
-            // Группируем правила по SensorId: один сенсор → список правил
             var notificationRulesDict = await _context.NotificationRules
                 .Include(nr => nr.NotificationType)
                 .Where(nr => nr.SensorId != null)
@@ -355,10 +359,8 @@ namespace QualityControlSystem.Controllers
 
             foreach (var sensor in sensors)
             {
-                // Пропускаем сенсор с нулевым ID (защита)
                 if (sensor.SensorId <= 0) continue;
 
-                // Генерация тестового значения (в реальности — данные с оборудования)
                 float value = _random.Next(2000, 5001);
 
                 var record = new ProdProcessedSensor
@@ -371,7 +373,6 @@ namespace QualityControlSystem.Controllers
 
                 processedRecords.Add(record);
 
-                // Проверяем все правила для данного сенсора
                 if (notificationRulesDict.TryGetValue(sensor.SensorId, out var rules))
                 {
                     foreach (var rule in rules)
@@ -386,18 +387,15 @@ namespace QualityControlSystem.Controllers
                                 NotificationRuleId = rule.NotificationRuleId,
                                 FrameId = frame.FrameId,
                                 NotificationTime = DateTime.Now
-                                // SensorProdId заполним после сохранения processedRecords
                             });
                         }
                     }
                 }
             }
 
-            // Сохраняем обработанные значения датчиков
             _context.ProdProcessedSensors.AddRange(processedRecords);
             await _context.SaveChangesAsync();
 
-            // Теперь, когда у processedRecords есть ID, привязываем их к уведомлениям
             if (notificationsToAdd.Any())
             {
                 foreach (var notification in notificationsToAdd)
@@ -428,6 +426,116 @@ namespace QualityControlSystem.Controllers
             }
 
             return RedirectToAction(nameof(Index));
+        }
+
+
+        // =========================
+        // EXCEL
+        // =========================
+        [HttpGet]
+        public async Task<IActionResult> ExportSensorsToExcel(int id)
+        {
+            var frame = await _context.Frames
+                .Include(f => f.ProdProcessedSensors)
+                    .ThenInclude(p => p.Sensor)
+                .Include(f => f.Notifications)
+                    .ThenInclude(n => n.NotificationRule)
+                .FirstOrDefaultAsync(f => f.FrameId == id);
+
+            if (frame == null)
+            {
+                return NotFound();
+            }
+
+            if (!frame.ProdProcessedSensors.Any())
+            {
+                TempData["Alert"] = "Нет данных датчиков для экспорта.";
+                return RedirectToAction(nameof(Details), new { id });
+            }
+
+            using var workbook = new XLWorkbook();
+            var worksheet = workbook.Worksheets.Add("Датчики");
+
+            worksheet.Cell(1, 1).Value = "Серийный номер каркаса";
+            worksheet.Cell(1, 2).Value = "Датчик";
+            worksheet.Cell(1, 3).Value = "Значение";
+            worksheet.Cell(1, 4).Value = "Время обработки";
+            worksheet.Cell(1, 5).Value = "Статус";
+
+            worksheet.Row(1).Style.Font.Bold = true;
+            worksheet.Row(1).Style.Fill.BackgroundColor = XLColor.LightGray;
+
+            int row = 2;
+            foreach (var proc in frame.ProdProcessedSensors.OrderBy(p => p.Sensor?.SensorName))
+            {
+                var sensorName = proc.Sensor?.SensorName ?? "ID " + proc.SensorId;
+                float? value = proc.ValueAfterProc;
+
+                string status = "Норма";
+
+                var rule = frame.Notifications
+                    .Select(n => n.NotificationRule)
+                    .FirstOrDefault(r => r?.SensorId == proc.SensorId);
+
+                if (rule != null && value.HasValue)
+                {
+                    float val = value.Value;
+
+                    bool exceedsNormal = rule.NormalValue.HasValue &&
+                                         val >= rule.NormalValue.Value &&
+                                         (rule.CriticalValue == null || val < rule.CriticalValue.Value);
+
+                    bool exceedsCritical = rule.CriticalValue.HasValue && val > rule.CriticalValue.Value;
+
+                    if (exceedsCritical)
+                        status = "Критическое";
+                    else if (exceedsNormal)
+                        status = "Предупреждение";
+                }
+
+                worksheet.Cell(row, 1).Value = frame.SerialNumber ?? "—";
+                worksheet.Cell(row, 2).Value = sensorName;
+                worksheet.Cell(row, 3).Value = value;
+                worksheet.Cell(row, 4).Value = proc.ProcessTime?.ToString("dd.MM.yyyy HH:mm:ss") ?? "—";
+                worksheet.Cell(row, 5).Value = status;
+
+                var statusCell = worksheet.Cell(row, 5);
+                if (status == "Критическое")
+                {
+                    statusCell.Style.Font.FontColor = XLColor.Red;
+                    statusCell.Style.Font.Bold = true;
+                }
+                else if (status == "Предупреждение")
+                {
+                    statusCell.Style.Font.FontColor = XLColor.FromHtml("#FF8C00");
+                    statusCell.Style.Font.Bold = true;
+                }
+                else
+                {
+                    statusCell.Style.Font.FontColor = XLColor.Green;
+                }
+
+                row++;
+            }
+            worksheet.Column(1).Width = 25;
+            worksheet.Column(2).Width = 30;
+            worksheet.Column(3).Width = 15;
+            worksheet.Column(4).Width = 25;
+            worksheet.Column(5).Width = 15;
+
+            var stream = new MemoryStream();
+            try
+            {
+                workbook.SaveAs(stream);
+                stream.Position = 0;
+
+                var fileName = $"Отчет_датчики_{frame.SerialNumber ?? "Frame" + frame.FrameId}.xlsx";
+
+                return File(stream, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileName);
+            }
+            finally
+            {
+            }
         }
 
         // =========================

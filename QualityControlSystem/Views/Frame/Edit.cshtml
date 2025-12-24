@@ -6,7 +6,6 @@
 @{
     ViewData["Title"] = "Редактирование каркаса";
 
-    // === Безопасный парсинг визуальной оценки (как в прошлый раз) ===
     var expertName = "";
     var expertResult = "";
     var checksDict = new Dictionary<string, (string status, string comment)>();
@@ -15,7 +14,6 @@
     {
         var root = Model.VisualAnalysParams.RootElement;
 
-        // Эксперт
         if (root.TryGetProperty("expert", out var expertProp) &&
             expertProp.ValueKind == JsonValueKind.Object &&
             expertProp.TryGetProperty("name", out var nameProp) &&
@@ -24,14 +22,12 @@
             expertName = nameProp.GetString() ?? "";
         }
 
-        // Решение эксперта
         if (root.TryGetProperty("expert_result", out var resultProp) &&
             resultProp.ValueKind == JsonValueKind.String)
         {
             expertResult = resultProp.GetString() ?? "";
         }
 
-        // Визуальные проверки
         if (root.TryGetProperty("visual_checks", out var checksProp) &&
             checksProp.ValueKind == JsonValueKind.Array)
         {
@@ -97,7 +93,6 @@
                 </div>
 
                 <div class="col-md-6">
-                    <!-- Финальная оценка — только здесь, при редактировании -->
                     <div class="form-group mb-3">
                         <label asp-for="FinalMarkId" class="control-label font-weight-bold text-primary">
                             Финальная оценка
@@ -113,7 +108,6 @@
                 </div>
             </div>
 
-            <!-- Блок визуальной оценки эксперта -->
             <h4 class="mt-5">Визуальная оценка каркаса</h4>
             <div class="card p-4 bg-light">
                 <div class="mb-3">

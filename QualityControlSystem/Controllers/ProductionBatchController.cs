@@ -50,7 +50,6 @@ namespace QualityControlSystem.Controllers
         {
             if (ModelState.IsValid)
             {
-                // Исправление ошибки с DateTime Kind для PostgreSQL
                 if (productionBatch.StartDate.HasValue)
                     productionBatch.StartDate = DateTime.SpecifyKind(productionBatch.StartDate.Value, DateTimeKind.Utc);
 
@@ -87,7 +86,6 @@ namespace QualityControlSystem.Controllers
 
             if (ModelState.IsValid)
             {
-                // Исправление DateTime Kind перед сохранением
                 if (productionBatch.StartDate.HasValue)
                     productionBatch.StartDate = DateTime.SpecifyKind(productionBatch.StartDate.Value, DateTimeKind.Utc);
 

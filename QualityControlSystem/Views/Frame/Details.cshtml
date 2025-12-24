@@ -39,23 +39,23 @@
 <!-- Блок уведомлений (уже был) -->
 @if (Model.Notifications.Any())
 {
-        <h4 class="mt-5">Уведомления по датчикам</h4>
-        <div class="list-group mb-4">
+            <h4 class="mt-5">Уведомления по датчикам</h4>
+            <div class="list-group mb-4">
         @foreach (var notif in Model.Notifications.OrderByDescending(n => n.NotificationTime))
         {
             var sensorName = notif.ProdProcessedSensor?.Sensor?.SensorName ?? "Неизвестный датчик";
             var value = notif.ProdProcessedSensor?.ValueAfterProc;
-            var isCritical = notif.NotificationRule?.NotificationTypeId == 2; 
+            var isCritical = notif.NotificationRule?.NotificationTypeId == 1; 
 
-                    <div class="list-group-item @(isCritical ? "list-group-item-danger" : "list-group-item-warning")">
-                        <div class="d-flex w-100 justify-content-between">
-                            <h6 class="mb-1">
-                                <strong>@sensorName</strong> — @(isCritical ? "Критическое отклонение" : "Превышение нормы")
-                            </h6>
-                            <small>@notif.NotificationTime?.ToString("dd.MM.yyyy HH:mm")</small>
-                        </div>
-                        <p class="mb-1">
-                            Значение: <strong>@value</strong>
+                            <div class="list-group-item @(isCritical ? "list-group-item-danger" : "list-group-item-warning")">
+                                <div class="d-flex w-100 justify-content-between">
+                                    <h6 class="mb-1">
+                                        <strong>@sensorName</strong> — @(isCritical ? "Критическое отклонение" : "Превышение нормы")
+                                    </h6>
+                                    <small>@notif.NotificationTime?.ToString("dd.MM.yyyy HH:mm")</small>
+                                </div>
+                                <p class="mb-1">
+                                    Значение: <strong>@value</strong>
                     @if (notif.NotificationRule != null)
                     {
                         var normalText = notif.NotificationRule.NormalValue.HasValue
@@ -75,38 +75,36 @@
                             <text>(@string.Join(", ", parts))</text>
                         }
                     }
-                        </p>
-                    </div>
+                                </p>
+                            </div>
         }
-        </div>
+            </div>
 }
 else if (Model.ProdProcessedSensors.Any())
 {
-        <div class="alert alert-success mt-4">
-            <strong>Отлично!</strong> Все значения датчиков в пределах нормы.
-        </div>
+            <div class="alert alert-success mt-4">
+                <strong>Отлично!</strong> Все значения датчиков в пределах нормы.
+            </div>
 }
 
-<!-- НОВЫЙ БЛОК: Значения обработанных датчиков -->
 @if (Model.ProdProcessedSensors.Any())
 {
-        <h4 class="mt-5">Обработанные значения датчиков</h4>
-        <table class="table table-sm table-bordered table-hover">
-            <thead class="table-light">
-                <tr>
-                    <th>Датчик</th>
-                    <th>Значение</th>
-                    <th>Время обработки</th>
-                    <th>Статус</th>
-                </tr>
-            </thead>
-            <tbody>
+            <h4 class="mt-5">Обработанные значения датчиков</h4>
+            <table class="table table-sm table-bordered table-hover">
+                <thead class="table-light">
+                    <tr>
+                        <th>Датчик</th>
+                        <th>Значение</th>
+                        <th>Время обработки</th>
+                        <th>Статус</th>
+                    </tr>
+                </thead>
+                <tbody>
             @foreach (var proc in Model.ProdProcessedSensors.OrderBy(p => p.Sensor?.SensorName))
             {
                 var sensorName = proc.Sensor?.SensorName ?? "ID " + proc.SensorId;
                 var value = proc.ValueAfterProc;
 
-                // Определяем статус по правилам (если есть правило для этого датчика)
                 string status = "Норма";
                 string statusClass = "text-success";
 
@@ -116,7 +114,7 @@ else if (Model.ProdProcessedSensors.Any())
 
                 if (rule != null)
                 {
-                    bool exceedsNormal = rule.NormalValue != null && value > rule.NormalValue;
+                    bool exceedsNormal = rule.NormalValue != null && value >= rule.NormalValue && value < rule.CriticalValue;
                     bool exceedsCritical = rule.CriticalValue != null && value > rule.CriticalValue;
 
                     if (exceedsCritical)
@@ -128,28 +126,30 @@ else if (Model.ProdProcessedSensors.Any())
                     {
                         status = "Предупреждение";
                         statusClass = "text-warning fw-bold";
+
                     }
                 }
 
-                        <tr>
-                            <td>@sensorName</td>
-                            <td>@value</td>
-                            <td>@proc.ProcessTime?.ToString("dd.MM.yyyy HH:mm:ss")</td>
-                            <td class="@statusClass">@status</td>
-                        </tr>
+                                <tr>
+                                    <td>@sensorName</td>
+                                    <td>@value</td>
+                                    <td>@proc.ProcessTime?.ToString("dd.MM.yyyy HH:mm:ss")</td>
+                                    <td class="@statusClass">@status</td>
+                                </tr>
             }
-            </tbody>
-        </table>
+                </tbody>
+            </table>
 }
 else
 {
-        <div class="alert alert-info mt-4">
-            Данные датчиков ещё не обработаны. Нажмите кнопку "Обработать датчики" в списке каркасов.
-        </div>
+            <div class="alert alert-info mt-4">
+                Данные датчиков ещё не обработаны. Нажмите кнопку "Обработать датчики" в списке каркасов.
+            </div>
 }
 
 <div class="mt-4">
     <a asp-action="Edit" asp-route-id="@Model.FrameId" class="btn btn-warning">Редактировать</a>
     <a asp-action="VisualAnalysis" asp-route-id="@Model.FrameId" class="btn btn-info ms-2">Визуальная оценка</a>
+    <a asp-action="ExportSensorsToExcel" asp-route-id="@Model.FrameId" class="btn btn-primary ms-2">Экспорт датчиков в Excel</a>
     <a asp-action="Index" class="btn btn-secondary ms-2">Назад к списку</a>
 </div>

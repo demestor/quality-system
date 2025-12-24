@@ -3,6 +3,6 @@
     public class NotificationType
     {
         public int NotificationTypeId { get; set; }
-        public string? NotificationTypeName { get; set; }  // e.g., "Warning", "Critical"
+        public string? NotificationTypeName { get; set; }
     }
 }

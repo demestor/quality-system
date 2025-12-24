@@ -12,9 +12,8 @@ namespace QualityControlSystem.Models
 
         public int? BatchStatusId { get; set; }
 
-        public string? Recom { get; set; } // рекомендации эксперта
+        public string? Recom { get; set; }
 
-        // Навигационные свойства
         public BatchStatus? BatchStatus { get; set; }
 
         public ICollection<Frame> Frames { get; set; } = new List<Frame>();

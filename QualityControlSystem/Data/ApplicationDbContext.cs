@@ -9,20 +9,16 @@ namespace QualityControlSystem.Data
         {
         }
 
-        // Справочники (существующие)
         public DbSet<BatchStatus> BatchStatuses { get; set; } = null!;
         public DbSet<FinalMarkType> FinalMarkTypes { get; set; } = null!;
         public DbSet<FrameModel> FrameModels { get; set; } = null!;
 
-        // Новые справочники
         public DbSet<NotificationType> NotificationTypes { get; set; } = null!;
         public DbSet<Sensor> Sensors { get; set; } = null!;
 
-        // Основные сущности (существующие)
         public DbSet<ProductionBatch> ProductionBatches { get; set; } = null!;
         public DbSet<Frame> Frames { get; set; } = null!;
 
-        // Новые сущности
         public DbSet<ProdProcessedSensor> ProdProcessedSensors { get; set; } = null!;
         public DbSet<NotificationRule> NotificationRules { get; set; } = null!;
         public DbSet<Notification> Notifications { get; set; } = null!;
@@ -33,12 +29,10 @@ namespace QualityControlSystem.Data
 
             modelBuilder.HasDefaultSchema("public");
 
-            // JSON-поле в Frame (существующее)
             modelBuilder.Entity<Frame>()
                 .Property(f => f.VisualAnalysParams)
                 .HasColumnType("jsonb");
 
-            // ProductionBatch (существующее)
             modelBuilder.Entity<ProductionBatch>(entity =>
             {
                 entity.ToTable("production_batch", "public");
@@ -54,7 +48,6 @@ namespace QualityControlSystem.Data
                     .HasConstraintName("production_batch_batch_status_id_fkey");
             });
 
-            // BatchStatus (существующее)
             modelBuilder.Entity<BatchStatus>(entity =>
             {
                 entity.ToTable("batch_status", "public");
@@ -62,7 +55,6 @@ namespace QualityControlSystem.Data
                 entity.Property(bs => bs.StatusName).HasColumnName("status_name");
             });
 
-            // FrameModel (существующее)
             modelBuilder.Entity<FrameModel>(entity =>
             {
                 entity.ToTable("frame_model", "public");
@@ -70,7 +62,6 @@ namespace QualityControlSystem.Data
                 entity.Property(fm => fm.FrameName).HasColumnName("frame_name");
             });
 
-            // FinalMarkType (существующее)
             modelBuilder.Entity<FinalMarkType>(entity =>
             {
                 entity.ToTable("final_mark_type", "public");
@@ -78,7 +69,6 @@ namespace QualityControlSystem.Data
                 entity.Property(fmt => fmt.FinalMarkName).HasColumnName("final_mark_name");
             });
 
-            // Frame (существующее, с добавлением навигаций)
             modelBuilder.Entity<Frame>(entity =>
             {
                 entity.ToTable("frame", "public");
@@ -122,8 +112,6 @@ namespace QualityControlSystem.Data
                     .HasConstraintName("frame_final_mark_id_fkey");
             });
 
-            // Новые модели
-            // Sensor
             modelBuilder.Entity<Sensor>(entity =>
             {
                 entity.ToTable("sensor", "public");
@@ -131,7 +119,6 @@ namespace QualityControlSystem.Data
                 entity.Property(s => s.SensorName).HasColumnName("sensor_name");
             });
 
-            // ProdProcessedSensor
             modelBuilder.Entity<ProdProcessedSensor>(entity =>
             {
                 entity.ToTable("prod_processed_sensor", "public");
@@ -154,7 +141,6 @@ namespace QualityControlSystem.Data
                     .HasConstraintName("prod_processed_sensor_frame_id_fkey");
             });
 
-            // NotificationRule
             modelBuilder.Entity<NotificationRule>(entity =>
             {
                 entity.ToTable("notification_rule", "public");
@@ -175,7 +161,6 @@ namespace QualityControlSystem.Data
                     .HasConstraintName("notification_rule_notification_type_id_fkey");
             });
 
-            // Notification
             modelBuilder.Entity<Notification>(entity =>
             {
                 entity.ToTable("notification", "public");
@@ -202,7 +187,6 @@ namespace QualityControlSystem.Data
                     .HasConstraintName("notification_frame_id_fkey");
             });
 
-            // NotificationType (предполагаю, что есть; добавьте данные: 1=Warning, 2=Critical)
             modelBuilder.Entity<NotificationType>(entity =>
             {
                 entity.ToTable("notification_type", "public");

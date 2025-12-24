@@ -7,8 +7,6 @@
         public int? FrameId { get; set; }
         public float? ValueAfterProc { get; set; }
         public DateTime? ProcessTime { get; set; }
-
-        // Навигации
         public Sensor? Sensor { get; set; }
         public Frame? Frame { get; set; }
     }
